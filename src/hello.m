@@ -1,1 +1,3 @@
-fprintf('%d. Hello world!\n', sentence);
+fprintf('Hello world!\n');
+fprintf('Hello world!\n');
+fprintf('Hello world!\n');
